@@ -1,0 +1,44 @@
+                                        # frome  ier simel list your silf coyec user input
+
+name = input("what your name?:")
+print(" my name is ",name)
+
+name = input("what your name?:")
+print(" my name is ",name)
+
+name = input("what your name?:")
+print(" my name is ",name)
+
+name = input("what your youser name?:")
+print(" my name yousee is  ",name)
+
+name = input("what your father  name?:")
+print(" my father name is ",name)
+
+name = input("what your father fast name name?:")
+print(" my father fast name is ",name)
+
+name = input("what your father last  name?:")
+print(" my father last name is ",name)
+
+name = input("what mather  your name?:")
+print(" my mather fast name is ",name)
+
+name = input("what mather your name?:")
+print(" my mather last name is ",name)
+
+name = input("what do your father?:")
+print(" my father  is a ",name)
+
+name = input("wher your from ?:")
+print(" my from is ",name)
+
+name = input("what do your mather?:")
+print(" my mather is a ",name)
+
+name = input("what do you?:")
+print(" my a ",name)
+
+print("                                  😊Thenkyou from fron korar gono 😊")
+print("                ❤❤❤❤❤❤❤❤❤❤✨✨✨✨✨✨ sobeca ❤❤❤❤❤❤❤❤❤❤✨✨✨✨✨✨")
+print("                                              I can see ✔ oky 😊")
